@@ -8,7 +8,7 @@ class Navegador extends Component {
           <nav className="navegador">
               <span><img src={Logo} width="20px" height="20px"/></span>
               <strong><a id="link">Linha do Tempo</a></strong>
-              <strong><a id="link">Perfil</a></strong>
+              <strong><a id="link">Postar</a></strong>
               <a id="usuario">Bem-Vindo, Antonio</a>
           </nav>
       );
